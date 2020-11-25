@@ -1,0 +1,11 @@
+preto  - #292929
+cinza claro - #ececec
+branco - #fcfcfc
+azul   - #81BABB
+verde - ##81BABB
+i{
+  position: absolute;
+padding-left:46.5%;
+padding-top: 90px;
+ z-index: 2;
+}
